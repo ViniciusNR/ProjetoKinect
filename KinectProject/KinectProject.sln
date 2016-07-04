@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectProject", "KinectProject\KinectProject.csproj", "{DDE43596-7F46-44BA-ACBB-0B817F1962B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE43596-7F46-44BA-ACBB-0B817F1962B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE43596-7F46-44BA-ACBB-0B817F1962B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE43596-7F46-44BA-ACBB-0B817F1962B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE43596-7F46-44BA-ACBB-0B817F1962B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://projetockinect.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KinectProject\\KinectProject.csproj
+		SccProjectName1 = KinectProject
+		SccLocalPath1 = KinectProject
+	EndGlobalSection
+EndGlobal
